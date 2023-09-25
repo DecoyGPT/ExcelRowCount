@@ -20,7 +20,7 @@ To use the Excel Row Counter script, follow these steps:
 1. Clone this repository:
 ```bash
 git clone https://github.com/DecoyGPT/ExcelRowCount.git
-cd excel-row-counter
+cd ExcelRowCount
 ```
 
 2. Run the script by passing the path to your Excel file as an argument:
